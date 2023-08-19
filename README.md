@@ -6,6 +6,7 @@ Maid Clean is a command-line tool designed to help developers clean up common "j
 ```bash
 git clone https://github.com/your_username/maid_clean.git
 cd maid_clean
+pip install -r requirements.txt
 ```
 
 ## Usage
